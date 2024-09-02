@@ -1,14 +1,14 @@
 body{
-    background-color: white;
+    background-color: lightblue;
     margin-left: 20px;
 }
 h1{
-    color: navy;
+    color: crimson  ;
     text-align: center;
     font-size: 40px;
 }
 h2{
-    color: navy;
+    color: crimson;
     margin-left: 20px;
 }
 p{
@@ -23,7 +23,7 @@ li{
 img{
     border: 3px solid #932;
     width: 30%;
-    margin-left: 20px;
+    margin-left: 20px   ;
 }
 footer{
     position: fixed;
